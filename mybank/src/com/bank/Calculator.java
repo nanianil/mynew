@@ -1,5 +1,5 @@
 package com.bank;
-
+//commented the calc
 public class Calculator {
 
 
